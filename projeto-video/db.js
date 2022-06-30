@@ -4,7 +4,7 @@ async function conecta(){
         host: "localhost",
 
         user: "root",
-        password: "Mah123$#@!",
+        password: "86545324Gato.",
 
         database:"projeto_video"
     })
